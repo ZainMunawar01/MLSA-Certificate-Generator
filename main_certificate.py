@@ -53,7 +53,7 @@ participants_file = "Templates/Event Participants.csv"
 host_Name = "Muhammad Zain"
 
 #Enter event name
-event_Name = "Student Challenge Github Expert"
+event_Name = "Student Challenge Artificial Intelligence"
 
 # get participants
 list_participants = get_participants(participants_file)
