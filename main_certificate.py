@@ -50,10 +50,10 @@ certificate_file = "Templates/Certificate Template.docx"
 participants_file = "Templates/Event Participants.csv"
 
 # Enter your name here [Ambassador Name]
-host_Name = ""
+host_Name = "Muhammad Zain"
 
 #Enter event name
-event_Name = ""
+event_Name = "Student Challenge Github Expert"
 
 # get participants
 list_participants = get_participants(participants_file)
